@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Topic" language="en" table="x_1843557_traini_0_topic">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Topic</label>
+            <language>en</language>
+            <name>x_1843557_traini_0_topic</name>
+            <plural>Topics</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-16 19:42:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Topic</sys_name>
+            <sys_package display_value="Training Content Management" source="x_1843557_traini_0">f0292f763b28f2102bfbf2d643e45a88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Training Content Management">f0292f763b28f2102bfbf2d643e45a88</sys_scope>
+            <sys_update_name>sys_documentation_x_1843557_traini_0_topic__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-16 19:42:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
